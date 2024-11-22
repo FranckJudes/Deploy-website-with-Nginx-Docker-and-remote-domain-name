@@ -1,5 +1,5 @@
 
-```
+
 # Juice Shop Docker with Nginx and HTTPS
 
 This guide explains how to deploy the Juice Shop application in a Docker container, expose it via Nginx, and secure it with HTTPS using Certbot.
