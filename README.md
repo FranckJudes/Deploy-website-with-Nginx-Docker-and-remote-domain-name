@@ -1,6 +1,5 @@
-Voici un **README** complet en Markdown pour configurer votre projet Docker exposé via Nginx et sécurisé avec Certbot.
 
-```markdown
+```
 # Juice Shop Docker with Nginx and HTTPS
 
 This guide explains how to deploy the Juice Shop application in a Docker container, expose it via Nginx, and secure it with HTTPS using Certbot.
